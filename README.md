@@ -67,8 +67,6 @@ But some I haven't changed the language 🛐
 
 [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/login)
 
-[`Click Here For Tutorial`](https://youtu.be/2grMt0TbfOM)<br>
-
 ----------
 <p align="center">
   <a href="https://youtu.be/2grMt0TbfOM"><img src="https://telegra.ph/file/dd32f9b493adc7a6ea33f.jpg" />
@@ -93,8 +91,6 @@ But some I haven't changed the language 🛐
 ## FOR OKTETO USER 
 [![Deploy on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy)
 
-[`Click Here For Tutorial`](https://youtu.be/FhHl_hvnY2s)
-
 ----------
 
 <p align="center">
@@ -112,24 +108,10 @@ But some I haven't changed the language 🛐
 <br>
 
 ----------
-## FOR PANEL USER 
-
-[`Click Here For Tutorial`](https://youtu.be/H2BZ3KFvQys)
-
-----------
-
-<p align="center">
-  <a href="https://youtu.be/H2BZ3KFvQys"><img src="https://telegra.ph/file/d2ab9876306da1e9c55d5.jpg" />
-</p>
-<br>
-
-----------
 
 ## FOR DOPRAX USER 
 
 [![Deploy on doprax](https://www.linkpicture.com/q/doprax-zeeoneofc.my.id.svg)](https://www.doprax.com/r/zeeoneofc/)
-
-[`Tutorial soon`](https://youtu.be/BqRauxohbLg)<br>
 
 ----------
 
